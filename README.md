@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohd-makki
+- 👋 Hi, I’m @mohd-makki, Data analyst with engineering background, proficiency in advanced mathematics.
 - 👀  I’m interested in data science, particularly data analytics, and I hope to transition into machine learning (ML) and artificial intelligence (AI) in the future.
 - 🌱 I’m currently learning Computer Science and Data Science (CDS) to deepen my knowledge in both fields.
 - 💞️ I’m looking to collaborate on open-source Python projects or contribute to projects when I need assistance.
