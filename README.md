@@ -1,3 +1,4 @@
+![readme photo 1](https://github.com/user-attachments/assets/76d693bc-b6ac-46bf-b9e4-c1c2a1624ccd)
 
 
 - 👋 Hi, I’m @mohd-makki, Data analyst with engineering background, proficiency in advanced mathematics.
