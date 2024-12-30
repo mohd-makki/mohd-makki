@@ -25,13 +25,14 @@ Data analyst with an engineering foundation, extensive experience in management,
  
 ### KEY SKILLS:
 
-- Problem Solving and Adaptability: Ability to tackle challenges and adapt to new situations effectively.  
-- Analytical Mindset and Attention to Detail: Strong analytical skills and keen attention to detail to ensure accuracy.  
-- Positive Attitude and Behavior: Maintain a positive demeanor and exhibit professional behavior in all situations.  
-- Time Management: Efficiently manage time and prioritize tasks to meet deadlines.  
-- Presentation and Communication: Excellent presentation skills and effective communication abilities.  
-- Passion for Life-long Learning: A commitment to continuous learning and personal growth, regularly upskill myself to stay on top of industry trends. Currently focusing on: Data Science concepts, Building predictive models with Machine Learning, Foundations of Artificial Intelligence  
-- Languages: Proficient in English and native Arabic.
+- _Problem Solving and Adaptability:_ Ability to tackle challenges and adapt to new situations effectively.  
+- _Analytical Mindset and Attention to Detail:_ Strong analytical skills and keen attention to detail to ensure accuracy.  
+- _Positive Attitude and Behavior:_ Maintain a positive demeanor and exhibit professional behavior in all situations.  
+- _Time Management:_ Efficiently manage time and prioritize tasks to meet deadlines.  
+- _Presentation and Communication:_ Excellent presentation skills and effective communication abilities.  
+- _Passion for Life-long Learning:_ A commitment to continuous learning and personal growth, regularly upskill myself to stay on top of industry trends. 
+- _Currently focusing on:_ Data Science concepts, Building predictive models with Machine Learning, Foundations of Artificial Intelligence  
+- _Languages:_ Proficient in English and native Arabic.
 
 ---
 ### PROJECTS:
@@ -48,22 +49,20 @@ Data analyst with an engineering foundation, extensive experience in management,
 - Python code to download video from a website . . . and others
 ---
 
-### BEYOND DATA INTERESTS:
+### BEYOND DATA INTEREST:
 
 I’m fascinated by the role technology plays in solving real-world problems. In addition to mathematics, I also have a profound interest in quantum physics, and astronomy. These fields constantly inspire me to think critically and explore the unknown.
 
 ---
 
 ### GET IN TOUCH:
-- [Email](mailto:mohd.maky@gmail.com),
-
-- [Linked-In](https://www.linkedin.com/in/mohamed-ahmed-68810910),
-
+- [Email](mailto:mohd.maky@gmail.com),   
+- [Linked-In](https://www.linkedin.com/in/ohamed-ahmed-68810910),  
 - [GitHub](https://github.com/mohd-makki).
 
 
 ### FUN FACT: 
 **Pi** Day (**π** Day) is March 14th (**3/14**)
-
+---
 ---
 ![readme photo 1](https://github.com/user-attachments/assets/76d693bc-b6ac-46bf-b9e4-c1c2a1624ccd)
