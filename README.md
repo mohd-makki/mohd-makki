@@ -55,14 +55,18 @@ I’m fascinated by the role technology plays in solving real-world problems. In
 
 ---
 
-### GET IN TOUCH:
+### GET IN TOUCH:  
 - [Email](mailto:mohd.maky@gmail.com),   
 - [Linked-In](https://www.linkedin.com/in/ohamed-ahmed-68810910),  
 - [GitHub](https://github.com/mohd-makki).
+  
 
 
-### FUN FACT: 
-**Pi** Day (**π** Day) is March 14th (**3/14**)
+
+   
+### FUN FACT:     
+- **Pi** Day (**π** Day) is March 14th (**3/14**)            
+  
 ---
 ---
 ![readme photo 1](https://github.com/user-attachments/assets/76d693bc-b6ac-46bf-b9e4-c1c2a1624ccd)
