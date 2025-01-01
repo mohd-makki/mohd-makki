@@ -50,6 +50,7 @@ Data analyst with an engineering foundation, extensive experience in management,
 
 _my GitHub account has been recently created, and all the projects listed_
 _above (along with additional ones) will be uploaded to this account at the earliest opportunity._
+
 ---
 
 ### BEYOND DATA INTEREST:
