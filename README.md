@@ -61,7 +61,7 @@ I’m fascinated by the role technology plays in solving real-world problems. In
 
 ### GET IN TOUCH:  
 - [Email](mailto:mohd.maky@gmail.com),   
-- [Linked-In](https://www.linkedin.com/in/ohamed-ahmed-68810910),  
+- [Linked-In](https://www.linkedin.com/in/mohamed-ahmed-68810910),  
 - [GitHub](https://github.com/mohd-makki).
   
 
