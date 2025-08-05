@@ -48,10 +48,11 @@ Data analyst with an engineering foundation, extensive experience in management,
 - Web Scraping (by Python library of Beautiful Soup)
 - Python code to download video from a website . . . and others
 
-_This GitHub account has been recently created, and all the projects listed
-_ above (along with other ones) will be published to this account at the earliest opportunity.
+_This GitHub account has been recently created, and all the projects listed_
+_above (along with other ones) will be published to this account at the earliest opportunity.
 
-### until then, The following links include a portion of my portfolio that will be moved here shortly: [GitHub -Old](https://github.com/ugtta?tab=repositories) and [Tableau](https://public.tableau.com/app/profile/m5503/vizzes)
+### until then, The following links include a portion of my portfolio that will be moved here shortly:
+[GitHub - Old](https://github.com/ugtta?tab=repositories) and [Tableau](https://public.tableau.com/app/profile/m5503/vizzes)
 ---
 
 ### BEYOND DATA INTEREST:
