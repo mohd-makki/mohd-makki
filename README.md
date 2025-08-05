@@ -50,7 +50,7 @@ Data analyst with an engineering foundation, extensive experience in management,
 
 _my GitHub account has been recently created, and all the projects listed_
 _above (along with additional ones) will be uploaded to this account at the earliest opportunity._
-
+The following links include a portion of my portfolio that will be moved here shortly: [GitHub -Old](https://github.com/ugtta?tab=repositories) and [Tableau](https://public.tableau.com/app/profile/m5503/vizzes)
 ---
 
 ### BEYOND DATA INTEREST:
